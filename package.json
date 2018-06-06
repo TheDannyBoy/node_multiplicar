@@ -1,0 +1,18 @@
+{
+  "name": "bases-node",
+  "version": "1.0.0",
+  "description": "Esta es una app de línea de comando",
+  "main": "archivos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Vazquez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.0",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
